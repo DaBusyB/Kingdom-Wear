@@ -1,3 +1,7 @@
+.navbar {
+    height: 150px;
+}
+
 .nav-item {
     /* border: 1px solid red; */
     margin: 20px;
